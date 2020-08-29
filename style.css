@@ -1,0 +1,46 @@
+.container{
+    border:10px solid green;
+    margin  : 50px;
+   
+    
+
+}
+.container-1{
+    border:2px solid black;
+    display: flex;
+    padding-right: 10px;
+    padding: 20px;
+    align-content: center;
+    margin : auto;
+    widows: 75px; ;
+    text-align: center;
+
+
+}
+.flex-bar-1{
+    float: left;
+    text-align:center;
+    padding: 10px;
+   
+    
+    
+}
+
+.flex-bar-2 {
+    float: left;
+    align-content: center;
+    padding : 10px;
+    
+    justify-content: space-around;
+   
+
+    
+}
+#flex-box-element{
+    text-align: center;
+    float :left;
+    display:flex;
+
+
+
+}
